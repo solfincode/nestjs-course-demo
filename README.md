@@ -11,6 +11,11 @@
 - filters: handles errors that occur during requrest handling
 - interceptors: add extra logic to incoming requrests or outgoing response
 
+## validator && transformer
+
+- class-validator: validate req body whether it is matched with designated type
+- class-transformer: convert json into class
+
 ## Installation
 
 ```bash
