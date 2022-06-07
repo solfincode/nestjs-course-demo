@@ -16,6 +16,11 @@
 - class-validator: validate req body whether it is matched with designated type
 - class-transformer: convert json into class
 
+## CLI
+
+- nest new <projectname>
+- nest generate module <modulename> --flat
+
 ## Installation
 
 ```bash
